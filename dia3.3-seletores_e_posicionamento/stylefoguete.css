@@ -1,0 +1,50 @@
+h3:hover{
+    border: 3px solid rgb(8, 8, 8) ;
+}
+#box1{
+    background-color:yellow ;
+
+}
+#box2{
+    background-color:rgba(47, 0, 255, 0.829) ;
+
+}
+
+#box3{
+    background-color:rgba(255, 119, 0, 0.585) ;
+    height: 60px;
+  
+
+}
+#box4{
+    background-color:rgb(93, 48, 48) ;
+
+}
+#box5{
+    background-color:rgba(137, 245, 112, 0.631) ;
+
+}
+
+#text1{
+    color: rgb(44, 142, 135);
+}
+#text2{
+ font-weight: 300px;
+ color: cornsilk;
+}
+#text3{
+    color: blueviolet;
+    text-decoration:line-through;
+}
+#text4{
+    color: white;
+    font-size: xx-large;
+}
+#text5{
+    text-align: center;
+    
+}
+
+.textimpar{
+    font-style: italic;
+}
