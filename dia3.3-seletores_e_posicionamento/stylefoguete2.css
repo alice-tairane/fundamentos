@@ -1,0 +1,49 @@
+ol {
+    background-color: yellow;
+}
+
+ol li.par{
+    color: green;
+}
+ol li.impar{
+    text-transform:uppercase;
+}
+h1, h2, h3{
+    color: red;
+}
+h1{
+    font-size: 40px;
+    border: 1px solid black;
+}
+ol, ul{
+    font-size: 20px;
+}
+li em{
+    font-weight: 600;
+    
+}
+ul .linguagens{
+    color: blue;
+
+}
+.java{
+    color: palevioletred;
+}
+
+a:hover{
+    background-color: rgba(219, 102, 48, 0.846);
+}
+
+
+a.link2:hover{
+    background-color: rgb(62, 192, 77);
+}
+a.link3:hover{
+    background-color: rgb(17, 17, 18);
+}
+a.link4:hover{
+    background-color: rgb(200, 212, 69);
+}
+a.link5:hover{
+    background-color: rgb(15, 155, 32);
+}
